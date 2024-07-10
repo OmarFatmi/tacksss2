@@ -82,7 +82,7 @@ TEMPLATES = [
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:8000',
     'http://127.0.0.1:8000',
-    'https://test2-six-indol.vercel.app'
+    'https://tacksss2-omars-projects-d9c92b32.vercel.app'
     # Ajoutez ici d'autres origines autorisées
 ]
 
